@@ -1,0 +1,15 @@
+[*] GTKWave display configuration for 'apio sim in3out2_tb.v'
+[*] THIS FILE WAS GENERATED AUTOMATICALLY BY APIO.
+[*] DO NOT EDIT IT MANUALLY!
+[*] To customize this file, run 'apio sim in3out2_tb.v'
+[*] and save the file from GTKWave.
+
+[*] GTKWave Analyzer v3.4.0 (w)1999-2022 BSI
+
+[*]
+In3Out2_tb.d1
+In3Out2_tb.d2
+In3Out2_tb.d3
+In3Out2_tb.d4
+In3Out2_tb.d5
+In3Out2_tb.SIMTIME
